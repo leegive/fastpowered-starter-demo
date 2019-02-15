@@ -8,6 +8,7 @@
         <groupId>com.fastpowered</groupId>
         <artifactId>fastpowered-starter-parent</artifactId>
         <version>1.0</version>
+        <relativePath>../fastpowered-starter-parent</relativePath>
     </parent>
 
     <groupId>com.fastpowered</groupId>
